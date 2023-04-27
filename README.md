@@ -23,7 +23,7 @@ In clockwise direction, for each player:
 
 ### Lose Condition
 
-If the next player can't play the game within the current rules, you lose.
+If the next player can't play the game within the current rules, everyone loses.
 
 ### Win condition
 
